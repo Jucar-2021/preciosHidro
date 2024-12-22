@@ -1,0 +1,13 @@
+{
+    "productos": [
+        {
+            "diesel": 10.34
+        },
+        {
+            "regular": 15.45
+        },
+        {
+            "supreme": 20.11
+        }
+    ]
+}
